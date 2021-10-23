@@ -32,6 +32,7 @@ Microsoft Windows [Version 10.0.19041.264]
 
 C:\> pip install discord
 ```
+or just go to [https://discordpy.readthedocs.io/en/stable/api.html](https://discordpy.readthedocs.io/en/stable/api.html) to learn about discord-py
 ## Javascript Bot Example
 ```
 /* install nodejs
@@ -62,7 +63,7 @@ Microsoft Windows [Version 10.0.19041.264]
 
 C:\> npm install discord.js
 ```
-or just go to [discord.js.org/#/](https://discord.js.org) to see more about discord-js
+or just go to [discord.js.org/#/](https://discord.js.org) to learn more about discord-js
 ## Contact Me
 lptechub78@gmail.com
 
