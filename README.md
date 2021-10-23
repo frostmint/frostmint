@@ -1,4 +1,4 @@
-![Frostmint](/assets/img/img-banner.png)
+![Frostmint](/assets/img/img-banner0.png)
 ## Python Bot Example
 ```
 # install python module first
