@@ -1,5 +1,5 @@
 ![Frostmint](/assets/img/img-banner.png)
-### Python Bot Example
+## Python Bot Example
 ```
 # install python module first
 # python.org
@@ -25,7 +25,14 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run(os.getenv('TOKEN'))
 ```
-### Javascript Bot Example
+### Before use (python)
+```
+Microsoft Windows [Version 10.0.19041.264]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\> pip install discord
+```
+## Javascript Bot Example
 ```
 /* install nodejs
 https://nodejs.org/en/
@@ -48,10 +55,18 @@ client.on("message", msg => {
 
 client.login(process.env.TOKEN)
 ```
-### Contact Me
+### Before use (javascript)
+```
+Microsoft Windows [Version 10.0.19041.264]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\> npm install discord.js
+```
+or just go to [discord.js.org/#/](https://discord.js.org) to see more about discord-js
+## Contact Me
 lptechub78@gmail.com
 
-### Repository
+## Repository
 <a href="https://github.com/frostmint/db/blob/main/bot.py">Open original: bot.py</a>
 <p> </p>
 <a href="https://github.com/frostmint/db/blob/main/bot.js">Open original: bot.js</a>
