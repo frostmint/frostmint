@@ -55,7 +55,7 @@ client.on("message", msg => {
   }
 })
 
-client.login(TOKEN)
+client.login(TOKEN);
 ```
 ### Before you started (javascript)
 [Download NodeJS](https://github.com/frostmint/dl/)
