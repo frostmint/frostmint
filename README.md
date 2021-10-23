@@ -50,3 +50,11 @@ client.login(process.env.TOKEN)
 ```
 ### Contact Me
 lptechub78@gmail.com
+
+### Repository
+<a href="https://github.com/frostmint/db/blob/main/bot.py">Open original: bot.py</a>
+<p> </p>
+<a href="https://github.com/frostmint/db/blob/main/bot.js">Open original: bot.js</a>
+<p> </p>
+<a href="https://github.com/frostmint/db/">Open repository: db</a>
+<p> </p>
