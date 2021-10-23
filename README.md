@@ -1,4 +1,4 @@
-## Hi, This is faris
+![Frostmint](/assets/img/img-banner.png)
 ### Python Bot Example
 ```
 # install python module first
