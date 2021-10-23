@@ -23,9 +23,9 @@ async def on_message(message):
 
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
-client.run(os.getenv('TOKEN'))
+client.run(TOKEN)
 ```
-### Before use (python)
+### Before you started (python)
 [Download Python](https://github.com/frostmint/dl)
 ```
 Microsoft Windows [Version 10.0.19041.264]
@@ -55,9 +55,9 @@ client.on("message", msg => {
   }
 })
 
-client.login(process.env.TOKEN)
+client.login(TOKEN)
 ```
-### Before use (javascript)
+### Before you started (javascript)
 [Download NodeJS](https://github.com/frostmint/dl/)
 ```
 Microsoft Windows [Version 10.0.19041.264]
