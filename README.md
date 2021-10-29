@@ -1,12 +1,6 @@
-![Frostmint](/assets/img/img-banner0.png)
+![Frostmint](/classid-img_banner.png)
 ## Python Bot Example
 ```
-# install python module first
-# python.org
-# after that, type in cmd:
-# pip install discord
-# done
-
 import discord
 import os
 
@@ -23,25 +17,18 @@ async def on_message(message):
 
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
-client.run(TOKEN)
+client.run('TOKEN')
 ```
 ### Before you started (python)
-[Download Python](https://github.com/frostmint/dl)
+[**Download Python >**](https://github.com/frostmint/dl)
+ 
+Then, open **cmd.exe/Terminal** and type this:
 ```
-Microsoft Windows [Version 10.0.19041.264]
-(c) 2020 Microsoft Corporation. All rights reserved.
-
 C:\> pip install discord
 ```
 or just go to [https://discordpy.readthedocs.io/en/stable/api.html](https://discordpy.readthedocs.io/en/stable/api.html) to learn about discord-py
 ## Javascript Bot Example
 ```
-/* install nodejs
-https://nodejs.org/en/
-open cmd, type "npm install discord.js"
-done
-*/
-
 const Discord = require("discord.js")
 const client = new Discord.Client()
 
@@ -55,20 +42,16 @@ client.on("message", msg => {
   }
 })
 
-client.login(TOKEN);
+client.login('TOKEN');
 ```
 ### Before you started (javascript)
-[Download NodeJS](https://github.com/frostmint/dl/)
+[**Download NodeJS >**](https://github.com/frostmint/dl/)
+ 
+Then, open **cmd.exe/Terminal**, and type this:
 ```
-Microsoft Windows [Version 10.0.19041.264]
-(c) 2020 Microsoft Corporation. All rights reserved.
-
 C:\> npm install discord.js
 ```
 or just go to [discord.js.org/#/](https://discord.js.org) to learn more about discord-js
-## Contact Me
-lptechub78@gmail.com
-
 ## Repository
 <a href="https://github.com/frostmint/db/blob/main/bot.py">Open original: bot.py</a>
 <p> </p>
