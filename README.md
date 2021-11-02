@@ -24,7 +24,7 @@ client.run('TOKEN')
  
 Then, open **cmd.exe/Terminal** and type this:
 ```
-C:\> pip install discord
+pip install discord
 ```
 or just go to [https://discordpy.readthedocs.io/en/stable/api.html](https://discordpy.readthedocs.io/en/stable/api.html) to learn about discord-py
 ## Javascript Bot Example
@@ -49,7 +49,7 @@ client.login('TOKEN');
  
 Then, open **cmd.exe/Terminal**, and type this:
 ```
-C:\> npm install discord.js
+npm install discord.js
 ```
 or just go to [discord.js.org/#/](https://discord.js.org) to learn more about discord-js
 ## Repository
