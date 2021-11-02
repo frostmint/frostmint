@@ -59,9 +59,9 @@ npm install discord.js
 ```
 or just go to [discord.js.org/#/](https://discord.js.org) to learn more about discord-js
 ## Repository
-<a href="https://github.com/frostmint/db/blob/main/bot.py">Open original: bot.py</a>
+<a href="https://github.com/frostmint/db/blob/main/bot.py">↗️Open original: bot.py</a>
 <p> </p>
-<a href="https://github.com/frostmint/db/blob/main/bot.js">Open original: bot.js</a>
+<a href="https://github.com/frostmint/db/blob/main/bot.js">↗️Open original: bot.js</a>
 <p> </p>
-<a href="https://github.com/frostmint/db/">Open repository: db</a>
+<a href="https://github.com/frostmint/db/">↗️Open repository: db</a>
 <p> </p>
