@@ -19,8 +19,11 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run('TOKEN')
 ```
-### Before you started (python)
-[**Download Python >**](https://github.com/frostmint/dl)
+## Before you started (python)
+### Download Module first (or its cannot run)
+[**Download Python in frostmint repository**](https://github.com/frostmint/dl)
+ 
+[**Download Python in official website**](https://python.org)
  
 Then, open **cmd.exe/Terminal** and type this:
 ```
@@ -44,8 +47,11 @@ client.on("message", msg => {
 
 client.login('TOKEN');
 ```
-### Before you started (javascript)
-[**Download NodeJS >**](https://github.com/frostmint/dl/)
+## Before you started (javascript)
+### Download Module first (or its cannot run)
+[**Download Nodejs in frostmint repository**](https://github.com/frostmint/dl/)
+ 
+[**Download Nodejs in official website**](https://nodejs.org)
  
 Then, open **cmd.exe/Terminal**, and type this:
 ```
