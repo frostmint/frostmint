@@ -1,9 +1,7 @@
-# 👋Introduction
-Hi, i am faris or [**```FrostMintGG```**](https://www.youtube.com/channel/UCRvofdhu8z_p6zriDl2Hkvg)
- 
-in the future, i hope this is happen,
- 
-i will starting to sharing batch script
+<h1 align="center">👋Introduction</h1>
+<p align="center">Hi, i am faris or <a href="https://www.youtube.com/channel/UCRvofdhu8z_p6zriDl2Hkvg">FrostyMint GG</a></p>
+<p align="center">in the future, (i hope this is happen)</p>
+<p align="center">i will starting to sharing batch script</p>
 
 
 
