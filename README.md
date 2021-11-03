@@ -1,3 +1,12 @@
+# 👋Introduction
+Hi, i am faris or [**```FrostMintGG```**](https://www.youtube.com/channel/UCRvofdhu8z_p6zriDl2Hkvg)
+ 
+in the future, i hope this is happen,
+ 
+i will starting to sharing batch script
+
+
+
 ![Frostmint](/classid-img_banner.png)
 ## Python Bot Example
 ```
@@ -19,17 +28,6 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run('TOKEN')
 ```
-## Before you started (python)
-### Download Module first (or its cannot run)
-[**Download Python in frostmint repository**](https://github.com/frostmint/dl)
- 
-[**Download Python in official website**](https://python.org)
- 
-Then, open **cmd.exe/Terminal** and type this:
-```
-pip install discord
-```
-or just go to [https://discordpy.readthedocs.io/en/stable/api.html](https://discordpy.readthedocs.io/en/stable/api.html) to learn about discord-py
 ## Javascript Bot Example
 ```
 const Discord = require("discord.js")
@@ -47,21 +45,42 @@ client.on("message", msg => {
 
 client.login('TOKEN');
 ```
-## Before you started (javascript)
-### Download Module first (or its cannot run)
-[**Download Nodejs in frostmint repository**](https://github.com/frostmint/dl/)
+
+## Before start to use it
+### Java script
+Download the module first
  
-[**Download Nodejs in official website**](https://nodejs.org)
+[**```↗️Download Nodejs in frostmint repository```**](https://github.com/frostmint/dl/)
+ 
+[**```↗️Download Nodejs in official website```**](https://nodejs.org)
  
 Then, open **cmd.exe/Terminal**, and type this:
 ```
 npm install discord.js
 ```
-or just go to [discord.js.org/#/](https://discord.js.org) to learn more about discord-js
+or just go to [```discord.js.org/#/```](https://discord.js.org) to learn more about discord-js
+### Python
+[**```↗️Download Python in frostmint repository```**](https://github.com/frostmint/dl)
+ 
+[**```↗️Download Python in official website```**](https://python.org)
+ 
+Then, open **cmd.exe/Terminal** and type this:
+```
+pip install discord
+```
+or just go to [```https://discordpy.readthedocs.io/en/stable/api.html```](https://discordpy.readthedocs.io/en/stable/api.html) to learn about discord-py
 ## Repository
-<a href="https://github.com/frostmint/db/blob/main/bot.py">↗️Open original: bot.py</a>
-<p> </p>
-<a href="https://github.com/frostmint/db/blob/main/bot.js">↗️Open original: bot.js</a>
-<p> </p>
-<a href="https://github.com/frostmint/db/">↗️Open repository: db</a>
-<p> </p>
+[**```↗️Open original: bot.py```**](https://github.com/frostmint/db/blob/main/bot.py)
+ 
+[**```↗️Open original: bot.js```**](https://github.com/frostmint/db/blob/main/bot.js)
+ 
+[**```↗️Open main repository: db```**](https://github.com/frostmint/db)
+
+## Tools for programmer (Text editor)
+[**```Visual Studio Code```**](https://code.visualstudio.com)
+ 
+[**```Visual Code IDE```**](https://visualstudio.com)
+ 
+[**```Atom Text Editor```**](https://atom.io)
+ 
+[**```Notepad++```**](https://notepad-plus-plus.org)
