@@ -77,7 +77,7 @@ or just go to [```https://discordpy.readthedocs.io/en/stable/api.html```](https:
 ## Tools for programmer (Text editor)
 [**```Visual Studio Code```**](https://code.visualstudio.com)
  
-[**```Visual Code IDE```**](https://visualstudio.com)
+[**```Visual Studio IDE```**](https://visualstudio.com)
  
 [**```Atom Text Editor```**](https://atom.io)
  
