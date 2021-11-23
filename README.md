@@ -23,37 +23,8 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run('TOKEN')
 ```
-## Javascript Bot Example
-```
-const Discord = require("discord.js")
-const client = new Discord.Client()
-
-client.on("ready", () => {
-  console.log(`Logged in as ${client.user.tag}!`)
-})
-
-client.on("message", msg => {
-  if (msg.content === "ping") {
-    msg.reply("pong");
-  }
-})
-
-client.login('TOKEN');
-```
 
 ## Before start to use it
-### Java script
-Download the module first
- 
-[**```↗️Download Nodejs in frostmint repository```**](https://github.com/frostmint/dl/)
- 
-[**```↗️Download Nodejs in official website```**](https://nodejs.org)
- 
-Then, open **cmd.exe/Terminal**, and type this:
-```
-npm install discord.js
-```
-or just go to [```discord.js.org/#/```](https://discord.js.org) to learn more about discord-js
 ### Python
 [**```↗️Download Python in frostmint repository```**](https://github.com/frostmint/dl)
  
