@@ -23,6 +23,10 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run('TOKEN')
 ```
+> I don't make this script
+> -------------------------------
+> I just sharing :)
+
 
 ## Before start to use it
 ### Python
