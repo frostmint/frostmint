@@ -23,11 +23,6 @@ async def on_message(message):
         await message.channel.send('Hello!')
 client.run('TOKEN')
 ```
-> I don't make this script
-> -------------------------------
-> I just sharing :)
-
-
 ## Before start to use it
 ### Python
 [**```↗️Download Python in frostmint repository```**](https://github.com/frostmint/dl)
@@ -42,8 +37,6 @@ or just go to [```https://discordpy.readthedocs.io/en/stable/api.html```](https:
 ## Repository
 [**```↗️Open original: bot.py```**](https://github.com/frostmint/db/blob/main/bot.py)
  
-[**```↗️Open original: bot.js```**](https://github.com/frostmint/db/blob/main/bot.js)
- 
 [**```↗️Open main repository: db```**](https://github.com/frostmint/db)
 
 ## Tools for programmer (Text editor)
@@ -56,4 +49,8 @@ or just go to [```https://discordpy.readthedocs.io/en/stable/api.html```](https:
 [**```Notepad++```**](https://notepad-plus-plus.org)
 
 ## Project
-- The Boring Project of HTML
+- The Boring Project of HTML (I am so bored)
+
+> Note
+> --------------------
+> I delete the Discord.JS Library from README.md, because its always error
