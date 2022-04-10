@@ -1,4 +1,3 @@
-<h1 align="center">FrostMint</h1>
-
+![Banner](https://raw.githubusercontent.com/frostmint/frostmint/main/assets/img/banner.png)
 ## Current Project
 - The Boring Project of HTML
